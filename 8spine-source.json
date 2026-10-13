@@ -1,0 +1,13 @@
+{
+  "category:music": [
+    {
+      "id": "apple-music-catalog",
+      "name": "Apple Music Catalog",
+      "author": "snoopy",
+      "version": "2.2.0",
+      "description": "Apple Music catalog search, albums and artists with 30-second previews.",
+      "labels": ["METADATA", "PREVIEW"],
+      "download": "https://raw.githubusercontent.com/uzu-wq/apple-music/refs/heads/main/apple-music-catalog.js"
+    }
+  ]
+}
